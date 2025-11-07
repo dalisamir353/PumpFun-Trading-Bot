@@ -8,10 +8,15 @@ Discover the ultimate Solana trading bot that helps you trade smarter, not harde
 **✨ What You'll Get:**
 
 ✅ Automated 24/7 trading strategies
+
 ✅ Real-time portfolio tracking & analytics
+
 ✅ Secure deposit management with QR codes
+
 ✅ Instant trade execution
+
 ✅ Smart risk management tools
+
 ✅ Complete transaction history
 
 
