@@ -27,9 +27,13 @@ Your funds are protected with industry-standard security measures and transparen
 **📊 Perfect For:**
 
 • Day traders looking to automate strategies
+
 • Busy professionals who can't monitor markets 24/7
+
 • Beginners wanting to learn algorithmic trading
+
 • Experienced traders seeking efficiency
+
 
 **🎯 Start Trading Smarter Today!**
 
